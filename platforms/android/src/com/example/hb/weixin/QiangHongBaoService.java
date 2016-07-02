@@ -17,6 +17,11 @@ import android.view.KeyEvent;
 import android.view.accessibility.AccessibilityEvent;
 import android.view.accessibility.AccessibilityNodeInfo;
 
+/**
+ * 
+ * @author bswsfhcw
+ *
+ */
 @SuppressLint("NewApi")
 public class QiangHongBaoService extends AccessibilityService{
 	
